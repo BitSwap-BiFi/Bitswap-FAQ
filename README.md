@@ -15,7 +15,7 @@ FAQ for Bitswap
 
 - **The DEX already is ready?**
 
-    No, we're stiil with R&D around product and is Alpha software
+    No, we're building DEX via Alpha software
 
 
 - **You've CLI?**
