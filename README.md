@@ -17,7 +17,10 @@ FAQ for Bitswap
 
     No, we're building DEX via Alpha software
 
+- **You'll have Web DEX version?**
 
+     Yes
+  
 - **You've CLI?**
 
     Yes, you can check [here](https://github.com/BitSwap-BiFi/Bitswap-core/tree/main#via-cli-command)
