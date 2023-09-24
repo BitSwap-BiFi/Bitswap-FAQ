@@ -17,11 +17,6 @@ FAQ for Bitswap
 
     No, we're stiil with R&D around product and is Alpha software
 
-  
-- **LNP from RGB will be implementaded?**
-
-    Yes, we'll implementation soon
-
 
 - **You've CLI?**
 
