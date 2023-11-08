@@ -24,3 +24,7 @@ FAQ for Bitswap
 - **You've CLI?**
 
     Yes, you can check [here](https://github.com/BitSwap-BiFi/Bitswap-core/tree/main#via-cli-command), but this is used only for Bitswap team
+
+- **I can fork Core code and provide PRs?**
+
+   Yes, you can 
