@@ -3,10 +3,6 @@
 FAQ for Bitswap
 
 ## FAQ
-
-- **Bitswap have any $BIT token from DEX?**
-
-    No, our token is only Bitcoin
   
 - **It is compatible with Lightning Network?**
   
