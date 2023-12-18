@@ -24,3 +24,7 @@ FAQ for Bitswap
 - **I can fork Core code and provide PRs?**
 
    Yes, you can 
+
+- **I can fork Core and build my own based DEX on Bitswap?**
+
+No, our code is for while as source avaialable, not FOSS.
