@@ -28,3 +28,7 @@ FAQ for Bitswap
 - **I can fork Core and build my own based DEX on Bitswap?**
 
   No, our code is for while as source avaialable, not FOSS.
+
+- **When Demo DEX?**
+
+  We're working as soon as possible for deliver and start demo tests internally
