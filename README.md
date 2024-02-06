@@ -32,3 +32,7 @@ FAQ for Bitswap
 - **When Demo DEX?**
 
   We're working as soon as possible for deliver and start demo tests internally
+
+- **Bitswap will issue tokens?**
+
+No.
