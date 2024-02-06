@@ -35,4 +35,4 @@ FAQ for Bitswap
 
 - **Bitswap will issue tokens?**
 
-No.
+  No.
