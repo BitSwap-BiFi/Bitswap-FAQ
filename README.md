@@ -19,7 +19,7 @@ FAQ for Bitswap
   
 - **You've CLI?**
 
-    Yes, you can check [here](https://github.com/BitSwap-BiFi/Bitswap-core/tree/main/src/cli), but this is used only for Bitswap team
+    Yes, you can check [here](https://github.com/BitSwap-BiFi/Bitswap-demo/tree/main/src/cli) and test our Demo DEX 
 
 - **I can fork Core code and provide PRs?**
 
